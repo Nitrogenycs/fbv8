@@ -1,0 +1,11 @@
+Purpose
+-------
+
+A small library to interface FireBreath's JSAPI with Google's V8.
+
+
+See also
+---------
+
+http://www.firebreath.org
+http://code.google.com/p/v8
